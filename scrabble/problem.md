@@ -22,8 +22,10 @@ SPCQEIU
 
 **Resources:**
 [Word list](https://www.dropbox.com/s/qkg62nkh483g635/sowpods.txt?dl=0)
+
 [Letter scores](https://www.dropbox.com/s/talrnaxaftbb1rz/letter_scores.txt?dl=0)
-Part 2
+
+## Part 2
 
 Extend the script to handle blank tiles. When reading the input, the character _ can be used as a wildcard — it can represent any letter.
 
