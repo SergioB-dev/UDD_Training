@@ -8,6 +8,7 @@ Prints out the words that can be made from those characters, along with their Sc
 Example input and output:
 
 $ python scrabble_cheater.py SPCQEIU  # Use any language you like.
+
 17 piques
 17 equips
 16 quips
