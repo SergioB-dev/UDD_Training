@@ -21,6 +21,7 @@ SPCQEIU
 
 
 **Resources:**
+
 [Word list](https://www.dropbox.com/s/qkg62nkh483g635/sowpods.txt?dl=0)
 
 [Letter scores](https://www.dropbox.com/s/talrnaxaftbb1rz/letter_scores.txt?dl=0)
