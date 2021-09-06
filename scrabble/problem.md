@@ -1,6 +1,6 @@
-Word Solver
+# Word Solver
 
-Part 1
+## Part 1
 
 Write some code that:
 Takes a 7-character string (either as a command-line argument or as an argument to a function)
@@ -16,7 +16,7 @@ $ python scrabble_cheater.py SPCQEIU  # Use any language you like.
 15 quip
 …
 
-Resources:
+**Resources:**
 [Word list](https://www.dropbox.com/s/qkg62nkh483g635/sowpods.txt?dl=0)
 [Letter scores](https://www.dropbox.com/s/talrnaxaftbb1rz/letter_scores.txt?dl=0)
 Part 2
