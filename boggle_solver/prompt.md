@@ -1,10 +1,10 @@
 
-Interview question: Boggle solver
+# Interview question: Boggle solver
 
 This is a retired coding question from Dropbox. I don’t know how often candidates would actually solve this completely during a 60-minute interview, so instead I’m going to break this into a couple of pieces with expectations for each.
 
 
-Part 1
+## Part 1
 
 Implement a recursive depth-first search that you fully understand and could reproduce in front of someone from scratch if you needed to.
 
@@ -13,14 +13,14 @@ Then, run your DFS implementation on some example graphs. This means being comfo
 This will become the foundation for the Boggle solver.
 
 
-Part 2
+## Part 2
 
 Review how to play Boggle. Here is an example online version.
 
 The goal of the game when played with humans is to find as many words as you can in a grid of 16 letters, in a limited amount of time. Words can only be made from connected letters — i.e. from a given letter you can only use the letters directly adjacent, including diagonally. You can’t reuse letters, and words must be at least 3 letters long.
 
 
-Part 3
+## Part 3
 
 Implement a Boggle solver. You will likely want to break this into the follow steps:
 
